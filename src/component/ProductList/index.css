@@ -1,0 +1,42 @@
+.listWrap {
+  background: #ffffff;
+  border: 2px solid #f4f4f4;
+  border-radius: 4px;
+  padding: 24px 24px;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.productName {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #141312;
+  flex: 1;
+}
+
+.actionWrap {
+  display: flex;
+  align-items: center;
+}
+
+.actionWrap span {
+  background: #f4f4f4;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #141312;
+  width: 27px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 30px;
+  cursor: default;
+}
+
+.actionWrap img {
+  cursor: pointer;
+}

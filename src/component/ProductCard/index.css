@@ -1,0 +1,18 @@
+.productCard {
+  max-width: 704px;
+  background: #ffffff;
+  box-shadow: 0 24px 38px rgba(3, 16, 40, 0.14);
+  border-radius: 4px 4px 0 0;
+  min-height: calc(100vh - 220px);
+  padding: 48px;
+  margin: 40px auto 0;
+}
+
+.productTitle {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 44px;
+  letter-spacing: 0.15px;
+  color: #141312;
+  margin-bottom: 24px;
+}

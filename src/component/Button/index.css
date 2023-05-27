@@ -1,0 +1,21 @@
+.button {
+  width: 60px;
+  height: 40px;
+  background: #1061c4;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+  border: 1px solid #1061c4;
+  cursor: pointer;
+}
+
+.button:disabled {
+  background: #f4f4f4;
+  border-color: #f4f4f4;
+  color: #676565;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}

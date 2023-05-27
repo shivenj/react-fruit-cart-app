@@ -1,0 +1,21 @@
+.emptyCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 60vh;
+}
+
+.emptyCard img {
+    height: 60px;
+    width: 60px;
+    margin-bottom: 16px;
+}
+
+.emptyCard p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #141312;
+}
